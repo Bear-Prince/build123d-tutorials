@@ -1,0 +1,9 @@
+[project]
+name = "build123d-tutorials"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "build123d>=0.10.0",
+    "jupyter>=1.1.1",
+    "ocp-vscode>=3.0.1",
+]
